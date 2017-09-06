@@ -1,0 +1,145 @@
+body{
+	font-family: verdana;
+	margin: 0;
+}
+
+body p {
+	font-family: helvetica;
+	font-size: 12px;: 
+}
+
+header{
+	color: white;
+	height: 500px;
+	background-image: url(images/bg.jpeg);
+	text-align: center;
+}
+
+header img {
+	width: 200px;
+	float: left;
+}
+
+.navbar{
+	color: white;
+	float: right;
+
+}
+
+.navbar li{
+	display: inline-block;
+	padding-right: 15px;
+}
+
+.titulo{
+	padding-top: 100px;
+	clear: both;
+}
+
+
+.botones {
+	text-align: center;
+	font-family: verdana;
+	font-size: 8px;
+	color: white;
+	display: inline-block;
+	padding: 20px;
+
+
+}
+
+.btn1 {
+	background-color: #337AB7;
+	display: inline-block;
+	border-radius: 5px;
+	margin: 10px;
+	padding: 2px 20px;
+}
+
+.btn1 a{
+	text-decoration: none;
+	color: white;
+}
+
+.btn2 a{
+	text-decoration: none;
+	color: white;
+
+}
+
+.btn2 {
+	background-color: #5CB85C;
+	display: inline-block;
+	border-radius: 5px;
+	padding: 2px 20px;
+
+}
+
+.btn3 a{
+	text-decoration: none;
+	color: white;
+
+}
+
+.btn3 {
+	background-color: #337AB7;
+	display: inline-block;
+	border-radius: 5px;
+	padding: 10px 20px;
+
+}
+
+
+.bajada{
+	color: white;
+	text-align: center;
+	padding: 0px 200px;
+
+
+}
+
+.contenido{
+
+	text-align: center;
+	border-bottom: 0px;
+	padding: 0px 200px;
+}
+
+.contenido img{
+	width: 200px;
+}
+
+.inscribete{
+	text-align: center;
+	background-color: silver;
+	padding: 20px 200px;
+
+}
+
+.contacto{
+	width: 100%;
+	text-align: left;
+	display: inline-block;
+	padding-bottom: 20px;
+
+}
+
+.mail{
+	float: left;
+	padding: 0px 200px;
+}
+
+.form{
+	float: right;
+	padding: 0px 200px;
+}
+	
+
+footer{
+
+	height: 30px;
+	color: white;
+	text-align: left;
+	background-color: #2a2a2a;
+	padding: 30px;
+}
